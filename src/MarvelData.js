@@ -1,8 +1,8 @@
 export const characters = [
   // Iron Man
   {
-    name: "Tony Stark",
-    alias: "Iron Man",
+    name: "Jeho Himself",
+    alias: "Jehoshaphat",
     img1:"./IMG_7699.png",
     //  "https://www.specfictionshop.com/cdn/shop/products/315455127_2253071438203857_6311282012262232749_n_2000x.jpg?v=1669836598",
     homeworld: "Earth",
@@ -11,15 +11,15 @@ export const characters = [
       "Powered armor suit",
       "Superhuman strength",
     ],
-    team: "Avengers",
+    team: "Soldiers of Christ",
     description:
-      "Tony Stark, also known as Iron Man, is a brilliant inventor, philanthropist, and industrialist. He uses his genius-level intellect and a highly advanced powered armor suit to fight for justice and protect the world from various threats. Stark is a charismatic playboy turned superhero who combines his technological prowess with unwavering determination to uphold the values of heroism and innovation.",
+      "Jeho himself, also known as Jehoshaphat, is a brilliant inventor, philanthropist, and industrialist. He uses his genius-level intellect and a highly advanced powered armor suit to fight for justice and protect the world from various threats. Stark is a charismatic playboy turned superhero who combines his technological prowess with unwavering determination to uphold the values of heroism and innovation.",
   },
   {
-    name: "Pepper Potts",
+    name: "Ibenye Joshua",
     alias: "Rescue",
     abilities: ["Powered armor suit", "Advanced technology skills"],
-    team: "Avengers",
+    team: "APPLAUDE",
      img1:"./DSC_0122.png",
     // "https://i.pinimg.com/originals/5e/fe/55/5efe55d2a7785a311511736a1a37bcbb.jpg",
     homeworld: "Earth",
