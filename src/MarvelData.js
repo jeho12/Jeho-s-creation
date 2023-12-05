@@ -108,7 +108,7 @@ export const characters = [
     alias: "man city",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
-    img1: "./TOTEHHAM HOTSPURS.png",
+    img1: "./Watford(1).png",
     homeworld: "Earth",
     description:
       "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
@@ -118,7 +118,7 @@ export const characters = [
     alias: "man city",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
-    img1: "./TOTEHHAM HOTSPURS.png",
+    img1: "./Manchester_City_FC_badge.svg.png",
     homeworld: "Earth",
     description:
       "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
@@ -128,7 +128,7 @@ export const characters = [
     alias: "man city",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
-    img1: "./TOTEHHAM HOTSPURS.png",
+    img1: "./Carabao_Daeng.png",
     homeworld: "Earth",
     description:
       "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
