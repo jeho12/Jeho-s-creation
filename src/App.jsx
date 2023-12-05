@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="mainBody">
       <div className="topHeader">
-        <h1 className="header">JEHO'S CREATION</h1>
+        <h1 className="header">JEHO'S CREATION <br />TOM AND JERRY</h1>
         <input placeholder="Search a Marvel Character" className="topInput" />
       </div>
       <div className="cardBody">

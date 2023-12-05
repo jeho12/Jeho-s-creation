@@ -3,7 +3,7 @@ export const characters = [
   {
     name: "Jeho Himself",
     alias: "Jehoshaphat",
-    img1:"./IMG_7699.png",
+    img1:"./Chelsea.png",
     //  "https://www.specfictionshop.com/cdn/shop/products/315455127_2253071438203857_6311282012262232749_n_2000x.jpg?v=1669836598",
     homeworld: "Earth",
     abilities: [
@@ -17,10 +17,10 @@ export const characters = [
   },
   {
     name: "Ibenye Joshua",
-    alias: "Rescue",
+    alias: "Prime Starr",
     abilities: ["Powered armor suit", "Advanced technology skills"],
     team: "APPLAUDE",
-     img1:"./DSC_0122.png",
+     img1:"./Stoke city.png",
     // "https://i.pinimg.com/originals/5e/fe/55/5efe55d2a7785a311511736a1a37bcbb.jpg",
     homeworld: "Earth",
     description:
@@ -31,7 +31,7 @@ export const characters = [
     alias: "War Machine",
     abilities: ["Powered armor suit", "Military expertise"],
     team: "Avengers",
-    img1: "https://i.pinimg.com/474x/ec/3f/4f/ec3f4f8053892365046fc6cd2f7955eb.jpg",
+    img1: "./Leicester city.png",
     homeworld: "Earth",
 
     description:
@@ -42,7 +42,7 @@ export const characters = [
     alias: "Ironheart",
     abilities: ["Powered armor suit", "Genius-level intellect"],
     team: "Young Avengers",
-    img1: "https://i.pinimg.com/736x/e3/02/9b/e3029b056f1deaf2011d72d0bce0bafa.jpg",
+    img1: "./Liverpool.png",
     homeworld: "Earth",
 
     description:
@@ -55,7 +55,7 @@ export const characters = [
     alias: "Spider-Man",
     abilities: ["Bio-electrokinesis", "Wall-crawling"],
     team: "Champions",
-    img1: "https://w0.peakpx.com/wallpaper/15/497/HD-wallpaper-marvel-spider-man-marvel-spider-man-game-games.jpg",
+    img1: "./NORWICH CITY.png",
     homeworld: "Earth",
     img3: "url_to_img3_for_Natasha_Stark",
     description:
@@ -67,7 +67,7 @@ export const characters = [
     alias: "Silk",
     abilities: ["Web-shooting", "Superhuman agility"],
     team: "Agents of Atlas",
-    img1: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2015_53/894026/silk_1_cover.jpg",
+    img1: "./Mancity former logo.png",
     homeworld: "Earth",
     description:
       "Cindy Moon, codenamed Silk, is a skilled hero with the power of web-shooting and remarkable superhuman agility. She is an essential member of the Agents of Atlas, using her arachnid-like abilities to combat threats and safeguard the world.",
@@ -78,7 +78,7 @@ export const characters = [
     alias: "Captain America",
     abilities: ["Peak human strength", "Vibranium shield"],
     team: "Avengers",
-    img1: "https://w0.peakpx.com/wallpaper/223/397/HD-wallpaper-captain-america-avengers-endgame-captain-america-marvel-marvel-comics-marvel-superheroes-superheroes.jpg",
+    img1: "./WESTHAM UNITED.png",
     homeworld: "Earth",
     description:
       "Steve Rogers, Captain America, is the embodiment of honor and virtue. Enhanced with peak human strength and wielding a Vibranium shield, he stands as a symbol of justice and resilience. Steve's unwavering commitment to the ideals of heroism makes him a cornerstone of the Avengers and the Marvel Universe.",
@@ -88,7 +88,47 @@ export const characters = [
     alias: "Falcon",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
-    img1: "https://i.pinimg.com/736x/0e/be/ed/0ebeed0c9d6578732a07ca98fee71e22.jpg",
+    img1: "./TOTEHHAM HOTSPURS.png",
+    homeworld: "Earth",
+    description:
+      "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
+  },
+  {
+    name: "LIPSON",
+    alias: "man city",
+    abilities: ["Wingsuit", "Telepathic link with birds"],
+    team: "Avengers",
+    img1: "./TOTEHHAM HOTSPURS.png",
+    homeworld: "Earth",
+    description:
+      "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
+  },
+  {
+    name: "LIPSON",
+    alias: "man city",
+    abilities: ["Wingsuit", "Telepathic link with birds"],
+    team: "Avengers",
+    img1: "./TOTEHHAM HOTSPURS.png",
+    homeworld: "Earth",
+    description:
+      "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
+  },
+  {
+    name: "LIPSON",
+    alias: "man city",
+    abilities: ["Wingsuit", "Telepathic link with birds"],
+    team: "Avengers",
+    img1: "./TOTEHHAM HOTSPURS.png",
+    homeworld: "Earth",
+    description:
+      "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
+  },
+  {
+    name: "LIPSON",
+    alias: "man city",
+    abilities: ["Wingsuit", "Telepathic link with birds"],
+    team: "Avengers",
+    img1: "./TOTEHHAM HOTSPURS.png",
     homeworld: "Earth",
     description:
       "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",

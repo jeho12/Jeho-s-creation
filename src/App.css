@@ -26,7 +26,7 @@
 .cardBody {
   display: flex;
   flex-wrap: wrap;
-  gap: 2vw;
+  gap: 4vw;
 }
 
 .card {
@@ -60,9 +60,9 @@
 }
 .card .main .avatarImage {
   border-radius: 0.5rem;
-  width: 15vw;
-  height: 47vh;
-  object-fit: cover;
+  width: 20vw;
+  height: 50vh;
+ object-fit: inherit;
 }
 .card .main .description {
   margin: 0.5rem 0;
