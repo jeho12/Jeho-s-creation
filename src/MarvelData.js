@@ -95,7 +95,7 @@ export const characters = [
   },
   {
     name: "LIPSON",
-    alias: "man city",
+    alias: "TOTEHHAM HOTSPURS",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
     img1: "./TOTEHHAM HOTSPURS.png",
@@ -105,7 +105,7 @@ export const characters = [
   },
   {
     name: "LIPSON",
-    alias: "man city",
+    alias: "Watford",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
     img1: "./Watford(1).png",
@@ -115,7 +115,7 @@ export const characters = [
   },
   {
     name: "LIPSON",
-    alias: "man city",
+    alias: "Man city",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
     img1: "./Manchester_City_FC_badge.svg.png",
@@ -125,7 +125,7 @@ export const characters = [
   },
   {
     name: "LIPSON",
-    alias: "man city",
+    alias: "Carabao_Daeng",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
     img1: "./Carabao_Daeng.png",
