@@ -1,12 +1,12 @@
 import "./App.css";
-import { characters } from "./MarvelData";
+import { characters } from "./footballdata";
 
 function App() {
   return (
     <div className="mainBody">
       <div className="topHeader">
-        <h1 className="header">JEHO'S CREATION <br />TOM AND JERRY</h1>
-        <input placeholder="Search a Marvel Character" className="topInput" />
+        <h1 className="header">JEHOS CREATION <br />FOOTBALL TEAMS</h1>
+        <input placeholder="Search a Football team of your choice" className="topInput" />
       </div>
       <div className="cardBody">
         {characters.map((data, index) => (

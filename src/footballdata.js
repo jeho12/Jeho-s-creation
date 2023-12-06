@@ -2,7 +2,7 @@ export const characters = [
   // Iron Man
   {
     name: "Jeho Himself",
-    alias: "Jehoshaphat",
+    alias: "Chelsea",
     img1:"./Chelsea.png",
     //  "https://www.specfictionshop.com/cdn/shop/products/315455127_2253071438203857_6311282012262232749_n_2000x.jpg?v=1669836598",
     homeworld: "Earth",
@@ -17,7 +17,7 @@ export const characters = [
   },
   {
     name: "Ibenye Joshua",
-    alias: "Prime Starr",
+    alias: "StokeCity",
     abilities: ["Powered armor suit", "Advanced technology skills"],
     team: "APPLAUDE",
      img1:"./Stoke city.png",
@@ -28,7 +28,7 @@ export const characters = [
   },
   {
     name: "James 'Rhodey' Rhodes",
-    alias: "War Machine",
+    alias: "Leicester City",
     abilities: ["Powered armor suit", "Military expertise"],
     team: "Avengers",
     img1: "./Leicester city.png",
@@ -39,7 +39,7 @@ export const characters = [
   },
   {
     name: "Riri Williams",
-    alias: "Ironheart",
+    alias: "Liverpool",
     abilities: ["Powered armor suit", "Genius-level intellect"],
     team: "Young Avengers",
     img1: "./Liverpool.png",
@@ -52,7 +52,7 @@ export const characters = [
   // Spider-Man
   {
     name: "Miles Morales",
-    alias: "Spider-Man",
+    alias: "Norwich City",
     abilities: ["Bio-electrokinesis", "Wall-crawling"],
     team: "Champions",
     img1: "./NORWICH CITY.png",
@@ -64,7 +64,7 @@ export const characters = [
 
   {
     name: "Cindy Moon",
-    alias: "Silk",
+    alias: "Mancity",
     abilities: ["Web-shooting", "Superhuman agility"],
     team: "Agents of Atlas",
     img1: "./Mancity former logo.png",
@@ -75,7 +75,7 @@ export const characters = [
 
   {
     name: "Steve Rogers",
-    alias: "Captain America",
+    alias: "Westham United",
     abilities: ["Peak human strength", "Vibranium shield"],
     team: "Avengers",
     img1: "./WESTHAM UNITED.png",
@@ -85,7 +85,7 @@ export const characters = [
   },
   {
     name: "Sam Wilson",
-    alias: "Falcon",
+    alias: "Totehham hotspurs",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
     img1: "./TOTEHHAM HOTSPURS.png",
