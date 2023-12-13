@@ -98,17 +98,17 @@ export const characters = [
     alias: "TOTEHHAM HOTSPURS",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
-    img1: "./TOTEHHAM HOTSPURS.png",
+    img1: "./Arsenal.png",
     homeworld: "Earth",
     description:
       "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
   },
   {
     name: "LIPSON",
-    alias: "Watford",
+    alias: "Barcelonia",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
-    img1: "./Watford(1).png",
+    img1: "./barca logo.png",
     homeworld: "Earth",
     description:
       "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
@@ -118,7 +118,7 @@ export const characters = [
     alias: "Man city",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
-    img1: "./Manchester_City_FC_badge.svg.png",
+    img1: "./manu logo.png",
     homeworld: "Earth",
     description:
       "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
@@ -128,7 +128,7 @@ export const characters = [
     alias: "Carabao_Daeng",
     abilities: ["Wingsuit", "Telepathic link with birds"],
     team: "Avengers",
-    img1: "./Carabao_Daeng.png",
+    img1: "./Astonvilla.png",
     homeworld: "Earth",
     description:
       "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
