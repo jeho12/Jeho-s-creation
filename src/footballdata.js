@@ -95,9 +95,9 @@ export const characters = [
   },
   {
     name: "LIPSON",
-    alias: "TOTEHHAM HOTSPURS",
+    alias: "Arsenal",
     abilities: ["Wingsuit", "Telepathic link with birds"],
-    team: "Avengers",
+    team: "Hot boys",
     img1: "./Arsenal.png",
     homeworld: "Earth",
     description:
@@ -115,9 +115,9 @@ export const characters = [
   },
   {
     name: "LIPSON",
-    alias: "Man city",
+    alias: "Manchester United",
     abilities: ["Wingsuit", "Telepathic link with birds"],
-    team: "Avengers",
+    team: "Red-Devils",
     img1: "./manu logo.png",
     homeworld: "Earth",
     description:
