@@ -31,7 +31,7 @@
 
 .card {
   user-select: none;
-  max-width: 20vw;
+  max-width: 40vw;
   margin: 5vw auto;
   border: 1px solid #ffffff22;
   background-color: #282c34;
